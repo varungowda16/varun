@@ -27,7 +27,7 @@ public class Test_HomePage extends BaseTest
 		 List<WebElement> mrp=driver.findElements(By.xpath("//span[@class='mrp']"));
 		 List<WebElement> sp=driver.findElements(By.xpath("//span[@class='sp']"));
 		 
-		 Thread.sleep(10000);
+		 //Thread.sleep(10000);
 		 
 		 
 	    for(int i=0;i<mrp.size()-1;i++){
