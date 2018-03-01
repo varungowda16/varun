@@ -30,5 +30,6 @@
 	<classpathentry kind="lib" path="jar/snakeyaml-1.15.jar"/>
 	<classpathentry kind="lib" path="jar/sqlite-jdbc-3.8.11.1.jar"/>
 	<classpathentry kind="lib" path="jar/testng-6.9.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="jar/log4j-1.2.17.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
